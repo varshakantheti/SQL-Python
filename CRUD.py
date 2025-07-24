@@ -1,3 +1,4 @@
+//CRUD
 import psycopg
 from pandas.core.indexes.multi import names_compat
 
